@@ -1,0 +1,17 @@
+D:\lab4inheritance\lab4inheritance\bin\Debug\net8.0-windows\lab4inheritance.exe
+D:\lab4inheritance\lab4inheritance\bin\Debug\net8.0-windows\lab4inheritance.deps.json
+D:\lab4inheritance\lab4inheritance\bin\Debug\net8.0-windows\lab4inheritance.runtimeconfig.json
+D:\lab4inheritance\lab4inheritance\bin\Debug\net8.0-windows\lab4inheritance.dll
+D:\lab4inheritance\lab4inheritance\bin\Debug\net8.0-windows\lab4inheritance.pdb
+D:\lab4inheritance\lab4inheritance\obj\Debug\net8.0-windows\lab4inheritance.Form1.resources
+D:\lab4inheritance\lab4inheritance\obj\Debug\net8.0-windows\lab4inheritance.Properties.Resources.resources
+D:\lab4inheritance\lab4inheritance\obj\Debug\net8.0-windows\lab4inheritance.csproj.GenerateResource.cache
+D:\lab4inheritance\lab4inheritance\obj\Debug\net8.0-windows\lab4inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab4inheritance\lab4inheritance\obj\Debug\net8.0-windows\lab4inheritance.AssemblyInfoInputs.cache
+D:\lab4inheritance\lab4inheritance\obj\Debug\net8.0-windows\lab4inheritance.AssemblyInfo.cs
+D:\lab4inheritance\lab4inheritance\obj\Debug\net8.0-windows\lab4inheritance.csproj.CoreCompileInputs.cache
+D:\lab4inheritance\lab4inheritance\obj\Debug\net8.0-windows\lab4inheritance.dll
+D:\lab4inheritance\lab4inheritance\obj\Debug\net8.0-windows\refint\lab4inheritance.dll
+D:\lab4inheritance\lab4inheritance\obj\Debug\net8.0-windows\lab4inheritance.pdb
+D:\lab4inheritance\lab4inheritance\obj\Debug\net8.0-windows\lab4inheritance.genruntimeconfig.cache
+D:\lab4inheritance\lab4inheritance\obj\Debug\net8.0-windows\ref\lab4inheritance.dll
